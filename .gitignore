@@ -1,0 +1,30 @@
+# Ignorar archivos y directorios generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de IDEs
+.idea/
+.vscode/
+
+# Ignorar archivos y directorios generados por el entorno de desarrollo
+node_modules/
+dist/
+
+# Ignorar archivos de registro y archivos temporales
+*.log
+*.tmp
+
+# Ignorar archivos de credenciales y claves de acceso
+.env
+config.js
+
+# Ignorar archivos de respaldo y archivos generados automáticamente
+*.bak
+*.swp
+*.~
+
+# Ignorar archivos de dependencias específicos de lenguaje
+# Añade aquí los archivos generados por tu lenguaje de programación específico
+
+# Ignorar archivos de salida de compilación
+# Añade aquí los archivos generados por tu proceso de compilación específico
