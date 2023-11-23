@@ -16,7 +16,6 @@ dist/
 
 # Ignorar archivos de credenciales y claves de acceso
 .env
-config.js
 
 # Ignorar archivos de respaldo y archivos generados automáticamente
 *.bak
